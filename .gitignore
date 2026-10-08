@@ -1,0 +1,22 @@
+# Data, trained models and generated outputs are not published
+data/
+models/
+*.pkl
+*.csv
+clustering_output/
+
+# Secrets
+.env
+
+# Build and test output
+dist/
+docs/build/
+.coverage
+.pytest_cache/
+
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
