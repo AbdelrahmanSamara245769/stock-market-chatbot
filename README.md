@@ -6,7 +6,7 @@ This investment assistant is aimed at beginner investors. It:
 2. Predicts the six-month price movement of the safest companies.
 3. Answers questions in plain language. A language model writes SQL queries against the project's data warehouse and turns the results into answers.
 
-It was a group project for a team of four at Breda University of Applied Sciences (Applied Data Science & AI, Year 1), in May and June 2025. It's a case study for Move Tickers, a simulated fintech client played by staff.
+It was a group project for a team of four at Breda University of Applied Sciences (Applied Data Science & AI, Year 1), in May and June 2025. It's a case study for a simulated fintech client played by staff.
 
 ## The problem
 
